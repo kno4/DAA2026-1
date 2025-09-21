@@ -1,7 +1,7 @@
 
-def fn_buscar(arreglo, K):
+def fn_buscar(arreglo, k):
     for num in range(len(arreglo)):
-        if arreglo[num] == K:
+        if arreglo[num] == k:
             return num
     return -1
 #En el peor de los casos, se recorren todos los valores del arreglo T(n)
