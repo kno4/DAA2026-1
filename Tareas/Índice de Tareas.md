@@ -7,3 +7,5 @@
 [Tarea 2](https://github.com/kno4/DAA2026-1/tree/main/Tareas/Tarea_2)
 
 [Tarea 4](https://github.com/kno4/DAA2026-1/tree/main/Tareas/Tarea_4)
+
+[Tarea 5](https://github.com/kno4/DAA2026-1/tree/main/Tareas/Tarea_5)
