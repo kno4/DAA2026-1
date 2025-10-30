@@ -41,7 +41,12 @@ def producto_list(lista: list):
                 prod_max = producto
     return prod_max
 
-A=[ -9, 3, 5, -2 , 9 , -7, 4, 8, 6]
-resultado = producto_list(A)
-print(f"Lista: {A}")
-print(f"El producto más grande es: {resultado}")
+def ex5(n):
+    count = 0
+    for i in range (n):
+        for j in range (n+1):
+            count += 1
+    return count
+
+numero = 10
+print(ex5(numero))
