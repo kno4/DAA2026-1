@@ -7,7 +7,7 @@ class LaberintoSolver:
     usando backtracking y una pila para almacenar la ruta de la solución
     """
     def __init__(self, filename : str):
-        self.maze: List[List[int]] = []
+        self.maze: List[List[str]] = []
         self.rows: int = 0
         self.cols: int = 0
         self.start: Optional[Tuple[int, int]] = None
