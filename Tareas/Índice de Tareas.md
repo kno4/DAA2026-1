@@ -9,3 +9,5 @@
 [Tarea 4](https://github.com/kno4/DAA2026-1/tree/main/Tareas/Tarea_4)
 
 [Tarea 5](https://github.com/kno4/DAA2026-1/tree/main/Tareas/Tarea_5)
+
+[Tarea 6](https://github.com/kno4/DAA2026-1/tree/main/Tareas/Tarea_6)
