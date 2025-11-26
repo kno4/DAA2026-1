@@ -38,7 +38,7 @@ Implementación de soluciones avanzadas para problemas de optimización.
 
 | 📄 **Documentación Técnica** | 💻 **Código Fuente** |
 | :---: | :---: |
-| [**Leer Reporte en PDF**](daa_final_project.pdf) | [**Ver Archivos .py**](Proyecto/) |
+| [**Leer Reporte en PDF**](Proyecto/daa_final_project.pdf) | [**Ver Archivos .py**](Proyecto/) |
 
 ---
 
